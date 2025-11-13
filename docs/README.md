@@ -14,7 +14,7 @@ A simple and fun bot developed in Python that fetches random memes from Reddit d
 ## The Final Result will look like this:
 
 
-![Discord Bot Demo](https://raw.githubusercontent.com/marianinhaUFMT/discord-bot-meme/main/docs/discordbot.gif)
+![Discord Bot Demo](docs/discordbot.gif)
 
 ---
 
