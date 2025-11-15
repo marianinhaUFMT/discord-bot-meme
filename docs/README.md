@@ -13,11 +13,11 @@ A simple and fun bot developed in Python that fetches random memes from Reddit d
 
 ## The Final Result will look like this:
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marianinhaUFMT/discord-bot-meme/refs/heads/main/docs/discordbot.gif" alt="Discord Bot Demo">
+  <img src="https://raw.githubusercontent.com/marianinhaUFMT/discord-bot-meme/refs/heads/main/docs/discordbot.gif"
+       alt="Discord Bot Demo"
+       width="40%">
 </p>
-
 
 ---
 
